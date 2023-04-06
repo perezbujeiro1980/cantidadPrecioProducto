@@ -1,0 +1,6 @@
+C:\Users\pc\AppData\Local\Temporary Projects\baldesdeEnduido\bin\Debug\baldesdeEnduido.exe
+C:\Users\pc\AppData\Local\Temporary Projects\baldesdeEnduido\bin\Debug\baldesdeEnduido.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\baldesdeEnduido\obj\x86\Debug\baldesdeEnduido.exe
+C:\Users\pc\AppData\Local\Temporary Projects\baldesdeEnduido\obj\x86\Debug\baldesdeEnduido.pdb
+C:\proyectos\C#\baldesEnduido\baldesdeEnduido\baldesdeEnduido\obj\x86\Debug\baldesdeEnduido.exe
+C:\proyectos\C#\baldesEnduido\baldesdeEnduido\baldesdeEnduido\obj\x86\Debug\baldesdeEnduido.pdb
